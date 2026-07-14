@@ -1,0 +1,6 @@
+{
+  "name": "CTA Affiliates",
+  "description": "Premium B2B Operations Consultancy Landing Page for Chase, Tijmune & Affiliates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
